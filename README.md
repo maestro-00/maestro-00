@@ -36,10 +36,10 @@ Full-stack software developer with 5+ years of experience in building and mainta
 
 
 <p align="center">  
-<a href="www.linkedin.com/in/adam-lukman-software-engineer">
+<a href="https://www.linkedin.com/in/adam-lukman-software-engineer">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>
-<a href="https://twitter.com/MyLifeMyWahala">
+<a href="https://twitter.com/ATungtaiyaL">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"/>
 </a>
 </p>
