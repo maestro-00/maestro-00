@@ -20,15 +20,15 @@ Full-stack software developer with 5+ years of experience in building and mainta
 ### 🏄‍♂️ Let's Have a Chat
 
 
-<p align="left"> <a href="https://www.github.com/Lukada-taiya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adam-lukman-software-engineer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ATungtaiyaL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/maestro-00" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/adam-lukman-software-engineer" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/ATungtaiyaL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
 #
 
 ### Achievements
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukada-taiya&label=Profile%20views&color=0e75b6&style=flat" alt="lukada-taiya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maestro-00&label=Profile%20views&color=0e75b6&style=flat" alt="maestro-00" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukada-taiya" alt="lukada-taiya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maestro-00" alt="maestro-00" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -37,11 +37,11 @@ Full-stack software developer with 5+ years of experience in building and mainta
 ### 📊 Stats
 
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukada-taiya&show_icons=true&locale=en&layout=compact&theme=transparent" alt="lukada-taiya" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maestro-00&show_icons=true&locale=en&layout=compact&theme=transparent" alt="maestro-00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukada-taiya&show_icons=true&locale=en&theme=transparent" alt="lukada-taiya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maestro-00&show_icons=true&locale=en&theme=transparent" alt="maestro-00" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukada-taiya&theme=transparent" alt="lukada-taiya" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maestro-00&theme=transparent" alt="maestro-00" /></p>
 
 #
 
@@ -49,6 +49,6 @@ Full-stack software developer with 5+ years of experience in building and mainta
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 <!---
-Lukada-taiya/Lukada-taiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+maestro-00/maestro-00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
