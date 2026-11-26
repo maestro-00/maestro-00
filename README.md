@@ -6,7 +6,7 @@
 
 **`Full-Stack Software Engineer - C#, .NET, TypeScript, React, Python, Java`**
 
-Full-stack software developer with 6+ years of experience in building and maintaining high-quality software applications. Proven ability to work independently and as part of a team. Strong problem-solving and analytical skills. Committed to staying updated with the latest industry trends and continuously expanding technical knowledge to provide cutting-edge solutions. Exceptional communication skills and a strong focus on delivering exceptional user experiences.
+Full-stack software developer with years of experience in building and maintaining high-quality software applications. Proven ability to work independently and as part of a team. Strong problem-solving and analytical skills. Committed to staying updated with the latest industry trends and continuously expanding technical knowledge to provide cutting-edge solutions. Exceptional communication skills and a strong focus on delivering exceptional user experiences.
 
 ---
 
